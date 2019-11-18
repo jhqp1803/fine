@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jhqp1803 on github.
+  * I am jhqp1803 (https://keybase.io/jhqp1803) on keybase.
+  * I have a public key ASAi92hxYcbtR0CBgp4fCYubua9EIIDcTt7H2TVlt_9XGAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012022f7687161c6ed474081829e1f098b9bb9af442080dc4edec7d93565b7ff57180a",
+      "host": "keybase.io",
+      "kid": "012022f7687161c6ed474081829e1f098b9bb9af442080dc4edec7d93565b7ff57180a",
+      "uid": "1d30b7d3d83fd76d89df11d622992119",
+      "username": "jhqp1803"
+    },
+    "merkle_root": {
+      "ctime": 1574095288,
+      "hash": "0454ea4e17e294a03697547eef6a9633aa44241a587d5a6ff244e917785174d2c75805211a346b8b1cd4f7a31deeca248e61144b503d0bad838745adff2548f3",
+      "hash_meta": "74d8770cc7afd50bf7b53d4d50abb83e7c491bc56d0143d4c7db66244a916c60",
+      "seqno": 10087809
+    },
+    "service": {
+      "entropy": "cLabxxsfqPD+7xoIHWKmHcOO",
+      "name": "github",
+      "username": "jhqp1803"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1574095294,
+  "expire_in": 504576000,
+  "prev": "d0120a35ee2191c73a7b839f98ada03fd768f007cd38779aeaa3f313c6361889",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASAi92hxYcbtR0CBgp4fCYubua9EIIDcTt7H2TVlt_9XGAo](https://keybase.io/jhqp1803), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIvdocWHG7UdAgYKeHwmLm7mvRCCA3E7ex9k1Zbf/VxgKp3BheWxvYWTESpcCDcQg0BIKNe4hkcc6e4OfmK2gP9do8AfNOHea6qPzE8Y2GInEIPllqPzBn0Snx3oOlliLQqbwuHJI1gmMHmZPMWwRTOTKAgHCo3NpZ8RAstUiFpKL8MpD6xEuSLxUf2LufruKhLS0s3ZeFjIO+J8nBXTZWYVd6AFiWTcAlcmXV9W3r8FCFQimXOMsUj9FDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII9rTET9wr5j3ACSUZY+DYCvstecW6Yynb05MMM2P6Igo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jhqp1803
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jhqp1803
+```
